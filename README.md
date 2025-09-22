@@ -1,6 +1,7 @@
 # Ray Tutorial Project
 
-Updated 2025-09-19 by Petter
+Updated 2025-09-19 by Petter  
+1-Beginner-Ray-Core.ipynb confirmed working.
 
 ## Contents
 
